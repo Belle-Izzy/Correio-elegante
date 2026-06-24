@@ -6,7 +6,7 @@
 
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body style=" background-image: url('assets/por Isa. Ferraciolli.png');
+<body style=" background-image: url('assets/fundo-index.png');
     background-repeat: no-repeat; 
     background-position: center center; 
     background-size: cover; 
