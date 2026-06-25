@@ -238,7 +238,7 @@ imagettftext(
    GERAR NOME ÚNICO
 */
 
-$nomeArquivo = bin2hex(random_bytes(10) . '.png');
+$nomeArquivo = bin2hex(random_bytes(10)) . '.png';
 
 /*
    GERAR NOME SEQUENCIAL
